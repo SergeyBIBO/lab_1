@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Над проектом работают три разработчика: Second Developer
-=======
-Над проектом работают три разработчика: First Developer
->>>>>>> 1f3ed260a662e5a22b96aeed806064ba5687e93f
+Над проектом работают три разработчика: First Developer, Second Developer.
